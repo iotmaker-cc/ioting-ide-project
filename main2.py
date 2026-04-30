@@ -5,3 +5,4 @@ def greet(name):
     print(f"ìëíì¸ì, {name}!")
 
 greet("PocketIDE")
+print("ok")
